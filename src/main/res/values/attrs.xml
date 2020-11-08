@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="TileView_tileSize"></declare-styleable>
+    -<declare-styleable name="TileView">
+    <attr name="tileSize" format="integer"/>
+</declare-styleable>
+</resources>
